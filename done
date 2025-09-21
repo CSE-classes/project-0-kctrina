@@ -1,4 +1,13 @@
+
 Name: Katrina Cribbs
+UTA ID: 1002095796
+
+
+Status: Fully completed  
+
+Notes: Code compiles and runs. Had to use `make qemu-nox` instead of `make qemu` to successfully boot and test xv6.  
+
+Test cases: Works for basic testsName: Katrina Cribbs
 UTA ID: 1002095796
 
 Status: Fully completed
